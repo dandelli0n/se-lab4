@@ -1,0 +1,3 @@
+GT4500,2,0,0,0 #2 torpedoes in main bay
+TORPEDO,SINGLE
+TORPEDO,SINGLE
