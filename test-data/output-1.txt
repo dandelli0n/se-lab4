@@ -1,0 +1,3 @@
+SUCCESS #creating the ship
+SUCCESS #fire 1st bay
+SUCCESS #fire 2nd bay
